@@ -1,0 +1,20 @@
+body {
+  background-color: #e0ece4;
+}
+h1{
+  color: #0278ae;
+  text-align: center;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+}
+hr{
+  border: dotted;
+  border-bottom: 0px;
+  color:#0278ae;
+  width: 20%;
+}
+p{
+  color: #797a7e;
+}
